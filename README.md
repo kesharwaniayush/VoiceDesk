@@ -7,14 +7,6 @@
 
 A production-ready voice agent application built with LiveKit, OpenAI, and Twilio. Features real-time appointment booking, live monitoring with take-over capability, and warm transfer to human agents.
 
-## Demo Video
-
-Watch the full demonstration of VoiceDesk in action, including booking, monitoring, and live takeover:
-
-[![VoiceDesk Demo](https://img.shields.io/badge/Watch%20Demo-Loom-552586?style=for-the-badge&logo=loom)](https://www.loom.com/share/a5a7a6d2522345c29fb4af13fe7c5307)
-
-[https://www.loom.com/share/a5a7a6d2522345c29fb4af13fe7c5307](https://www.loom.com/share/a5a7a6d2522345c29fb4af13fe7c5307)
-
 ---
 
 ## System Architecture
