@@ -1,9 +1,6 @@
 # VoiceDesk — Conversational Voice Agent
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/jaiyankargupta/VoiceDesk)
-[![LiveKit](https://img.shields.io/badge/Powered%20by-LiveKit-red)](https://livekit.io)
-[![OpenAI](https://img.shields.io/badge/AI-OpenAI-green)](https://openai.com)
-[![Twilio](https://img.shields.io/badge/Telephony-Twilio-blue)](https://twilio.com)
+
 
 A production-ready voice agent application built with LiveKit, OpenAI, and Twilio. Features real-time appointment booking, live monitoring with take-over capability, and warm transfer to human agents.
 
